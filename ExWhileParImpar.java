@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-public class while_par_impar {
+public class ExWhileParImpar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
