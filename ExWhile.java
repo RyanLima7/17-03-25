@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-public class ex_while {
+public class ExWhile {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
